@@ -1,5 +1,5 @@
 {
-    "name": "nestjs-i18next",
+    "name": "@greenvillage-io/nestjs-i18next",
     "version": "0.1.3",
     "description": "The nestjs translator modulde",
     "repository": "https://github.com/greenvillage-io/nestjs-i18next.git",
